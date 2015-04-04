@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMS1117
+D Low dropout voltage regulator
+$ENDCMP
+#
+$CMP DS1307
+D Serial IIC Real Time Clock
+K rtc
+$ENDCMP
+#
+#End Doc Library
